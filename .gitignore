@@ -25,4 +25,4 @@ dist/
 # Python caches and local database
 __pycache__/
 *.py[cod]
-backend/*.db
+*.db

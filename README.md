@@ -1,6 +1,6 @@
 ## FoodLoop AI
 
-FoodLoop AI coordinates verified surplus food with recipient demand. This repository contains two clients: the original Android application in `app/` and a full-stack web workspace at the repository root with a React/Vite frontend and FastAPI/SQLite backend.
+FoodLoop AI coordinates verified surplus food with recipient demand. This repository contains an Android application in `app/`, a React/Vite frontend in `src/`, and a FastAPI/SQLite backend in `backend/`.
 
 ### Run the web application
 
@@ -8,7 +8,6 @@ Prerequisites: Node.js 20+, Python 3.11+, and npm.
 
 1. Install frontend packages:
 	```powershell
-	cd web
 	npm install
 	```
 
@@ -27,7 +26,6 @@ Prerequisites: Node.js 20+, Python 3.11+, and npm.
 
 4. In a second terminal, start the React frontend:
 	```powershell
-	cd web
 	npm run dev
 	```
 	Open `http://localhost:5173` in your browser.
@@ -68,7 +66,6 @@ py -3.13 -m pytest backend/tests
 
 Build the production frontend:
 ```powershell
-cd web
 npm run build
 ```
 

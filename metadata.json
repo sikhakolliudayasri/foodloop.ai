@@ -1,0 +1,6 @@
+{
+  "name": "FoodLoop AI",
+  "description": "Predictive food rescue and intelligent redistribution platform with surplus forecasting, perishability-aware matching, and route optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

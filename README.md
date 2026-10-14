@@ -82,7 +82,7 @@ The Android app uses Android Studio and Gradle. Open the repository in Android S
 ---
 >
 
-# Run and deploy your AI Studio app
+# Run and deploy  AI Studio app
 
 This contains everything you need to run your app locally.
 
